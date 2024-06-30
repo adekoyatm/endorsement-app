@@ -4,7 +4,7 @@ import { initializeApp } from "https://www.gstatic.com/firebasejs/9.15.0/firebas
 import { getDatabase, ref, push, onValue, remove } from "https://www.gstatic.com/firebasejs/9.15.0/firebase-database.js"
 
 const appSettings = {
-    databaseURL: "https://endorsementapp-32ede-default-rtdb.europe-west1.firebasedatabase.app/"
+    databaseURL: "attach link to your database"
 }
 
 const app = initializeApp(appSettings)
